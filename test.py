@@ -30,8 +30,7 @@ import sys
 from PyCoinsE import *
 import pprint
 
-#api=PyCoinsE("INSERT_COINSE_PUBKEY_HERE", "INSERT_COINSE_PRIVKEY_HERE")
-api=PyCoinsE("1ef0007d536b232957976e5329632214952b7fd60d1159b204df9012", "11bc44774a4554dc3aa0b48feae3a06f815d177e2fc7259ecd6359d9c247b15e")
+api=PyCoinsE("INSERT_COINSE_PUBKEY_HERE", "INSERT_COINSE_PRIVKEY_HERE")
 
 #unauthenticated requests
 #List of all markets and the status
